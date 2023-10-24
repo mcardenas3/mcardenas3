@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi there 👋
+
+## My name is Marcelo Cárdenas
+I am a TEC Student
 
 <!--
 **mcardenas3/mcardenas3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
