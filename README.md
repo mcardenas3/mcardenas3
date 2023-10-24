@@ -1,6 +1,24 @@
 # Hi, I´m Marcelo 👋
 Third year computer science student at Instituto de Estudios Superiores de Monterrey. Interested in front-end programming and data analysis.
 
+## Skills
+### Soft Skills
+- Leadership
+- Teamwork
+- Open to critice
+- Self Motivation
+- Adaptability
+
+### Coding Skills
+- Python programming
+- Cpp programming
+- HTML
+- CSS
+- Matlab
+
+## Experiance
+
+  
 <!--
 **mcardenas3/mcardenas3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
