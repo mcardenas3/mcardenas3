@@ -1,7 +1,5 @@
-# Hi there 👋
-
-## My name is Marcelo Cárdenas
-I am a TEC Student
+# Hi, I´m Marcelo 👋
+Third year computer science student at Instituto de Estudios Superiores de Monterrey. Interested in front-end programming and data analysis.
 
 <!--
 **mcardenas3/mcardenas3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
