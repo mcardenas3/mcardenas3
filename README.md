@@ -17,6 +17,12 @@ Third year computer science student at Instituto de Estudios Superiores de Monte
 
 ## Experiance
 
+
+
+## Contact
+mail: m.cardenasleal3@gmail.com
+cel: 8182100232
+
   
 <!--
 **mcardenas3/mcardenas3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
