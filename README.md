@@ -15,8 +15,6 @@ Third year computer science student at Instituto de Estudios Superiores de Monte
 - CSS
 - Matlab
 
-## Experiance
-
 
 
 ## Contact
