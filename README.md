@@ -1,7 +1,5 @@
 # Hi, I´m Marcelo 👋
-University student in my fi/h semester. I am known for being collabora<ve, leader, social and dedicated to my tasks. I have
-compu<ng skills, seek solu<ons to problems, and learn new concepts. I aim to expand my knowledge through internships, courses,
-and experiences.
+University student in my fifth semester. I am known for being collaborative, leader, social and dedicated to my tasks. I have computing skills, seek solutions to problems, and learn new concepts. I aim to expand my knowledge through internships, courses, and experiences.
 
 ## Skills 🎯
 ### Soft Skills
