@@ -1,5 +1,7 @@
 # Hi, I´m Marcelo 👋
-Fifth year computer science student at Instituto de Estudios Superiores de Monterrey. Interested in front-end programming and data analysis.
+University student in my fi/h semester. I am known for being collabora<ve, leader, social and dedicated to my tasks. I have
+compu<ng skills, seek solu<ons to problems, and learn new concepts. I aim to expand my knowledge through internships, courses,
+and experiences.
 
 ## Skills 🎯
 ### Soft Skills
@@ -7,13 +9,20 @@ Fifth year computer science student at Instituto de Estudios Superiores de Monte
 - Teamwork
 - Self Motivation
 - Adaptability
+- Quick Learner
+- Communication
+- Hard Worker
+- Problem Solving
 
 ### Coding Skills 
-- Python programming
-- Cpp programming
+- Python
+- C++
+- C#
 - HTML
 - CSS
-- Matlab
+- JavaScript
+- .NET
+- SQL
 
 
 
